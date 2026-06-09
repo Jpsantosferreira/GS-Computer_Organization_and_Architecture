@@ -48,6 +48,6 @@ As informações são exibidas em um display LCD 16x2 com I2C, alternando entre 
 
 **Link do Tinkercad:** https://www.tinkercad.com/things/f41GAoSbGge-gs-computer-organization-and-architecture?sharecode=GyfPI_iAFaz9ffyi4m-CffOHfb8a-y9XZNoNkKlB-Lo               
 
-# Vídeo de Demonstração.  
+# Vídeo de Demonstração.     
 
-**Link do Vídeo do YouTube:** 
+**Link do Vídeo do YouTube:** https://youtu.be/4bu8oPfE_1A?si=4xymxPsSWXVOq7R4
