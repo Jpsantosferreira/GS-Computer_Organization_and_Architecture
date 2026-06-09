@@ -43,3 +43,11 @@ As informações são exibidas em um display LCD 16x2 com I2C, alternando entre 
 *-> luz e temperatura*                  
 ![alerta](assets/luz_alerta.png)   
 
+
+# Simulação
+
+**Link do Tinkercad:**     
+
+# Vídeo de Demonstração.  
+
+**Link do Vídeo do YouTube:** 
