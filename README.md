@@ -30,7 +30,7 @@ As informações são exibidas em um display LCD 16x2 com I2C, alternando entre 
 ![normalidade](assets/vibracao.png)      
 
 *-> luz e temperatura*         
-![normalidade](assets/temp/luz.png)     
+![normalidade](assets/temp:luz.png)     
 
 **Sistema em Alerta**          
 
