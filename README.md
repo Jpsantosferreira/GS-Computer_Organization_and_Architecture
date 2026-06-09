@@ -21,7 +21,25 @@ As informações são exibidas em um display LCD 16x2 com I2C, alternando entre 
 
 ## Demonstração do Sistema
 
-**Sistema em Normalidade** 
-➡️ *status* ✔️
-![normalidade](assets/status.png)      
+**Sistema em Normalidade**           
+
+*-> status*             
+![normalidade](assets/status.png)     
+
+*-> vibração*        
+![normalidade](assets/vibracao.png)      
+
+*-> luz e temperatura*         
+![normalidade](assets/temp/luz.png)     
+
+**Sistema em Alerta**          
+
+*-> status* 
+![alerta](assets/critico.png)              
+
+*-> vibração*            
+![alerta](assets/impacto.png)          
+
+*-> luz e temperatura*                  
+![alerta](assets/luz_alerta.png)   
 
